@@ -1,0 +1,25 @@
+.container{
+    width: 400px;
+    height: 540px;
+    background-color: black;
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 550px;
+}
+#screen{
+    background-color: white;
+    height: 60px;
+    width: 380px;
+    margin: 5px;
+    font-size: 2rem;
+    text-align: right;
+    border-radius: 5px;
+}
+.button{
+    background-color: white;
+    width: 72px;
+    height: 70px;
+    font-size: 1.5rem;
+    margin: 10px;
+    border-radius: 15px;
+}
